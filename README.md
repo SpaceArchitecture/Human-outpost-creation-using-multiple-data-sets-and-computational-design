@@ -3,6 +3,8 @@ Human outpost creation using multiple data sets and computational design
 
 A Grasshopper code for the computational design of a human base in extreme environments
 
+Quick presentation here https://issuu.com/spacearchitecture/docs/ices-2022-181_presentation
+
 Please email me at thomas.lagarde@outlook.com if you would like to participate/report a bug/ask a question
 
 You will need Rhino 7 or higher 
