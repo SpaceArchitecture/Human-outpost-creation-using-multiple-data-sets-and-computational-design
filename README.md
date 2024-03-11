@@ -2,8 +2,7 @@
 Human outpost creation using multiple data sets and computational design
 
 A Grasshopper code for the computational design of a human base in extreme environments
-
-The paper is here [https://issuu.com/spacearchitecture/docs/ices-2022-181_presentation](https://www.researchgate.net/publication/355734769_Using_Computational_Techniques_for_the_Optimal_Design_of_Evolving_Habitats)
+The paper is here (https://www.researchgate.net/publication/355734769_Using_Computational_Techniques_for_the_Optimal_Design_of_Evolving_Habitats)
 
 Please email me at thomas.lagarde@outlook.com if you would like to participate/report a bug/ask a question
 
